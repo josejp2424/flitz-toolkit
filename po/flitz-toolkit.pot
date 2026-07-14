@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flitz-toolkit 6.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Created by josejp2424 for Essora Linux."
+msgstr ""
+
+msgid "Copyright © 2026 josejp2424"
+msgstr ""
+
+msgid "Skipped existing: %s"
+msgstr ""
+
+msgid "Extracted: %s"
+msgstr ""
+
+msgid "Skipped unsupported special file: %s"
+msgstr ""
+
+msgid "The destination already exists:\n%s\n\nReplace it?"
+msgstr ""
+
+msgid "Replace existing file?"
+msgstr ""
+
+msgid "%d%% completed"
+msgstr ""
+
+msgid "Compressing..."
+msgstr ""
+
+msgid "Running: %s"
+msgstr ""
+
+msgid "Required tool is not installed: tar"
+msgstr ""
+
+msgid "Required tool is not installed: zip"
+msgstr ""
+
+msgid "Required tool is not installed: 7z"
+msgstr ""
+
+msgid "mksquashfs is not installed."
+msgstr ""
+
+msgid "Format not supported"
+msgstr ""
+
+msgid "Completed successfully"
+msgstr ""
+
+msgid "Completed successfully."
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Compression failed"
+msgstr ""
+
+msgid "Error: %s"
+msgstr ""
+
+msgid "File created:\n%s"
+msgstr ""
+
+msgid "Unknown compression error."
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Please select a valid folder first."
+msgstr ""
+
+msgid "Enter an output filename."
+msgstr ""
+
+msgid "The output filename must not contain a slash."
+msgstr ""
+
+msgid "Choose an output directory outside the source folder."
+msgstr ""
+
+msgid "Starting compression..."
+msgstr ""
+
+msgid "Source: %s"
+msgstr ""
+
+msgid "Output: %s"
+msgstr ""
+
+msgid "Select folder to compress"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select output directory"
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "Please drag only folders."
+msgstr ""
+
+msgid "Operation in progress"
+msgstr ""
+
+msgid "Wait for compression to finish before closing Flitz."
+msgstr ""
+
+msgid "Flitz Compressor"
+msgstr ""
+
+msgid "<b>Flitz Compressor</b>"
+msgstr ""
+
+msgid "by josejp2424 (v6.0 C)"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "Drag folder here or click Select"
+msgstr ""
+
+msgid "Format"
+msgstr ""
+
+msgid "SquashFS Options"
+msgstr ""
+
+msgid "Compression:"
+msgstr ""
+
+msgid "Block size:"
+msgstr ""
+
+msgid "Advanced XZ Options"
+msgstr ""
+
+msgid "BCJ Filter:"
+msgstr ""
+
+msgid "Output Directory"
+msgstr ""
+
+msgid "Default: source folder"
+msgstr ""
+
+msgid "Output Filename"
+msgstr ""
+
+msgid "Ready"
+msgstr ""
+
+msgid "Console"
+msgstr ""
+
+msgid "Compress"
+msgstr ""
+
+msgid "Extracting..."
+msgstr ""
+
+msgid "Required tool is not installed: %s"
+msgstr ""
+
+msgid "Cannot read PET package: %s"
+msgstr ""
+
+msgid "PET package ended unexpectedly."
+msgstr ""
+
+msgid "Cannot write temporary PET archive: %s"
+msgstr ""
+
+msgid "Cannot inspect %s: %s"
+msgstr ""
+
+msgid "Legacy PET without checksum footer; extracting directly."
+msgstr ""
+
+msgid "Cannot create temporary PET archive: %s"
+msgstr ""
+
+msgid "PET checksum does not match. The package may be damaged."
+msgstr ""
+
+msgid "PET checksum verified."
+msgstr ""
+
+msgid "Neither unzip nor 7z is installed."
+msgstr ""
+
+msgid "The DEB package has no data archive."
+msgstr ""
+
+msgid "Install dpkg-deb, or install ar and tar."
+msgstr ""
+
+msgid "innoextract could not extract it; trying 7z."
+msgstr ""
+
+msgid "Cannot make AppImage executable: %s"
+msgstr ""
+
+msgid "Cannot move decompressed file: %s"
+msgstr ""
+
+msgid "Unknown extension; trying the universal 7z handler."
+msgstr ""
+
+msgid "Recursively extracting: %s"
+msgstr ""
+
+msgid "Writing files..."
+msgstr ""
+
+msgid "Extraction completed"
+msgstr ""
+
+msgid "Extraction completed successfully!"
+msgstr ""
+
+msgid "Extraction failed"
+msgstr ""
+
+msgid "Detected format: %s"
+msgstr ""
+
+msgid "Searching for archives inside the extracted data..."
+msgstr ""
+
+msgid "Files were extracted to:\n%s"
+msgstr ""
+
+msgid "Unknown extraction error."
+msgstr ""
+
+msgid "Warning: temporary directory could not be removed: %s"
+msgstr ""
+
+msgid "Please select a valid archive first."
+msgstr ""
+
+msgid "Starting extraction..."
+msgstr ""
+
+msgid "File: %s"
+msgstr ""
+
+msgid "Select archive"
+msgstr ""
+
+msgid "All supported archives"
+msgstr ""
+
+msgid "Wait for extraction to finish before closing Flitz."
+msgstr ""
+
+msgid "Flitz Universal Extractor"
+msgstr ""
+
+msgid "<b>Flitz Universal Extractor</b>"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Drag file here or click Select"
+msgstr ""
+
+msgid "Output"
+msgstr ""
+
+msgid "Current"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Recursive"
+msgstr ""
+
+msgid "Keep structure"
+msgstr ""
+
+msgid "Overwrite"
+msgstr ""
+
+msgid "Extract"
+msgstr ""
+
+msgid "Warning: missing optional tools: %s"
+msgstr ""

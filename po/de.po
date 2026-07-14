@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flitz-toolkit 6.0\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Created by josejp2424 for Essora Linux."
+msgstr "Erstellt von josejp2424 für Essora Linux."
+
+msgid "Copyright © 2026 josejp2424"
+msgstr "Copyright © 2026 josejp2424"
+
+msgid "Skipped existing: %s"
+msgstr "Vorhandene Datei übersprungen: %s"
+
+msgid "Extracted: %s"
+msgstr "Entpackt: %s"
+
+msgid "Skipped unsupported special file: %s"
+msgstr "Nicht unterstützte Spezialdatei übersprungen: %s"
+
+msgid "The destination already exists:\n%s\n\nReplace it?"
+msgstr "Das Ziel ist bereits vorhanden:\n%s\n\nErsetzen?"
+
+msgid "Replace existing file?"
+msgstr "Vorhandene Datei ersetzen?"
+
+msgid "%d%% completed"
+msgstr "%d%% abgeschlossen"
+
+msgid "Compressing..."
+msgstr "Komprimieren..."
+
+msgid "Running: %s"
+msgstr "Ausführen: %s"
+
+msgid "Required tool is not installed: tar"
+msgstr "Erforderliches Werkzeug ist nicht installiert: tar"
+
+msgid "Required tool is not installed: zip"
+msgstr "Erforderliches Werkzeug ist nicht installiert: zip"
+
+msgid "Required tool is not installed: 7z"
+msgstr "Erforderliches Werkzeug ist nicht installiert: 7z"
+
+msgid "mksquashfs is not installed."
+msgstr "mksquashfs ist nicht installiert."
+
+msgid "Format not supported"
+msgstr "Format wird nicht unterstützt"
+
+msgid "Completed successfully"
+msgstr "Erfolgreich abgeschlossen"
+
+msgid "Completed successfully."
+msgstr "Erfolgreich abgeschlossen."
+
+msgid "Success"
+msgstr "Erfolg"
+
+msgid "Compression failed"
+msgstr "Komprimierung fehlgeschlagen"
+
+msgid "Error: %s"
+msgstr "Fehler: %s"
+
+msgid "File created:\n%s"
+msgstr "Datei erstellt:\n%s"
+
+msgid "Unknown compression error."
+msgstr "Unbekannter Komprimierungsfehler."
+
+msgid "Error"
+msgstr "Fehler"
+
+msgid "Please select a valid folder first."
+msgstr "Bitte zuerst einen gültigen Ordner auswählen."
+
+msgid "Enter an output filename."
+msgstr "Geben Sie einen Namen für die Ausgabedatei ein."
+
+msgid "The output filename must not contain a slash."
+msgstr "Der Name der Ausgabedatei darf keinen Schrägstrich enthalten."
+
+msgid "Choose an output directory outside the source folder."
+msgstr "Wählen Sie ein Ausgabeverzeichnis außerhalb des Quellordners."
+
+msgid "Starting compression..."
+msgstr "Komprimierung wird gestartet..."
+
+msgid "Source: %s"
+msgstr "Quelle: %s"
+
+msgid "Output: %s"
+msgstr "Ausgabe: %s"
+
+msgid "Select folder to compress"
+msgstr "Zu komprimierenden Ordner auswählen"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Select"
+msgstr "Auswählen"
+
+msgid "Select output directory"
+msgstr "Ausgabeverzeichnis auswählen"
+
+msgid "Warning"
+msgstr "Warnung"
+
+msgid "Please drag only folders."
+msgstr "Bitte nur Ordner hierher ziehen."
+
+msgid "Operation in progress"
+msgstr "Vorgang läuft"
+
+msgid "Wait for compression to finish before closing Flitz."
+msgstr "Warten Sie, bis die Komprimierung beendet ist, bevor Sie Flitz schließen."
+
+msgid "Flitz Compressor"
+msgstr "Flitz-Kompressor"
+
+msgid "<b>Flitz Compressor</b>"
+msgstr "<b>Flitz-Kompressor</b>"
+
+msgid "by josejp2424 (v6.0 C)"
+msgstr "von josejp2424 (v6.0 C)"
+
+msgid "About"
+msgstr "Über"
+
+msgid "Source"
+msgstr "Quelle"
+
+msgid "Drag folder here or click Select"
+msgstr "Ordner hierher ziehen oder auf Auswählen klicken"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "SquashFS Options"
+msgstr "SquashFS-Optionen"
+
+msgid "Compression:"
+msgstr "Kompression:"
+
+msgid "Block size:"
+msgstr "Blockgröße:"
+
+msgid "Advanced XZ Options"
+msgstr "Erweiterte XZ-Optionen"
+
+msgid "BCJ Filter:"
+msgstr "BCJ-Filter:"
+
+msgid "Output Directory"
+msgstr "Ausgabeverzeichnis"
+
+msgid "Default: source folder"
+msgstr "Standard: Quellordner"
+
+msgid "Output Filename"
+msgstr "Ausgabedateiname"
+
+msgid "Ready"
+msgstr "Bereit"
+
+msgid "Console"
+msgstr "Konsole"
+
+msgid "Compress"
+msgstr "Komprimieren"
+
+msgid "Extracting..."
+msgstr "Entpacken..."
+
+msgid "Required tool is not installed: %s"
+msgstr "Erforderliches Werkzeug ist nicht installiert: %s"
+
+msgid "Cannot read PET package: %s"
+msgstr "PET-Paket kann nicht gelesen werden: %s"
+
+msgid "PET package ended unexpectedly."
+msgstr "Das PET-Paket endete unerwartet."
+
+msgid "Cannot write temporary PET archive: %s"
+msgstr "Temporäres PET-Archiv kann nicht geschrieben werden: %s"
+
+msgid "Cannot inspect %s: %s"
+msgstr "%s kann nicht untersucht werden: %s"
+
+msgid "Legacy PET without checksum footer; extracting directly."
+msgstr "Älteres PET ohne Prüfsummen-Fußzeile; wird direkt entpackt."
+
+msgid "Cannot create temporary PET archive: %s"
+msgstr "Temporäres PET-Archiv kann nicht erstellt werden: %s"
+
+msgid "PET checksum does not match. The package may be damaged."
+msgstr "Die PET-Prüfsumme stimmt nicht überein. Das Paket könnte beschädigt sein."
+
+msgid "PET checksum verified."
+msgstr "PET-Prüfsumme bestätigt."
+
+msgid "Neither unzip nor 7z is installed."
+msgstr "Weder unzip noch 7z ist installiert."
+
+msgid "The DEB package has no data archive."
+msgstr "Das DEB-Paket enthält kein Datenarchiv."
+
+msgid "Install dpkg-deb, or install ar and tar."
+msgstr "Installieren Sie dpkg-deb oder ar und tar."
+
+msgid "innoextract could not extract it; trying 7z."
+msgstr "innoextract konnte die Datei nicht entpacken; 7z wird versucht."
+
+msgid "Cannot make AppImage executable: %s"
+msgstr "AppImage kann nicht ausführbar gemacht werden: %s"
+
+msgid "Cannot move decompressed file: %s"
+msgstr "Entpackte Datei kann nicht verschoben werden: %s"
+
+msgid "Unknown extension; trying the universal 7z handler."
+msgstr "Unbekannte Erweiterung; der universelle 7z-Handler wird versucht."
+
+msgid "Recursively extracting: %s"
+msgstr "Rekursives Entpacken: %s"
+
+msgid "Writing files..."
+msgstr "Dateien werden geschrieben..."
+
+msgid "Extraction completed"
+msgstr "Entpacken abgeschlossen"
+
+msgid "Extraction completed successfully!"
+msgstr "Entpacken erfolgreich abgeschlossen!"
+
+msgid "Extraction failed"
+msgstr "Entpacken fehlgeschlagen"
+
+msgid "Detected format: %s"
+msgstr "Erkanntes Format: %s"
+
+msgid "Searching for archives inside the extracted data..."
+msgstr "In den entpackten Daten wird nach Archiven gesucht..."
+
+msgid "Files were extracted to:\n%s"
+msgstr "Die Dateien wurden entpackt nach:\n%s"
+
+msgid "Unknown extraction error."
+msgstr "Unbekannter Entpackfehler."
+
+msgid "Warning: temporary directory could not be removed: %s"
+msgstr "Warnung: Temporäres Verzeichnis konnte nicht entfernt werden: %s"
+
+msgid "Please select a valid archive first."
+msgstr "Bitte zuerst ein gültiges Archiv auswählen."
+
+msgid "Starting extraction..."
+msgstr "Entpacken wird gestartet..."
+
+msgid "File: %s"
+msgstr "Datei: %s"
+
+msgid "Select archive"
+msgstr "Archiv auswählen"
+
+msgid "All supported archives"
+msgstr "Alle unterstützten Archive"
+
+msgid "Wait for extraction to finish before closing Flitz."
+msgstr "Warten Sie, bis das Entpacken beendet ist, bevor Sie Flitz schließen."
+
+msgid "Flitz Universal Extractor"
+msgstr "Flitz Universal-Entpacker"
+
+msgid "<b>Flitz Universal Extractor</b>"
+msgstr "<b>Flitz Universal-Entpacker</b>"
+
+msgid "File"
+msgstr "Datei"
+
+msgid "Drag file here or click Select"
+msgstr "Datei hierher ziehen oder auf Auswählen klicken"
+
+msgid "Output"
+msgstr "Ausgabe"
+
+msgid "Current"
+msgstr "Aktuell"
+
+msgid "Options"
+msgstr "Optionen"
+
+msgid "Recursive"
+msgstr "Rekursiv"
+
+msgid "Keep structure"
+msgstr "Struktur beibehalten"
+
+msgid "Overwrite"
+msgstr "Überschreiben"
+
+msgid "Extract"
+msgstr "Entpacken"
+
+msgid "Warning: missing optional tools: %s"
+msgstr "Warnung: Optionale Werkzeuge fehlen: %s"

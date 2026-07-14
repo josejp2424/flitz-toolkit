@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flitz-toolkit 6.0\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Created by josejp2424 for Essora Linux."
+msgstr "Создано josejp2424 для Essora Linux."
+
+msgid "Copyright © 2026 josejp2424"
+msgstr "Copyright © 2026 josejp2424"
+
+msgid "Skipped existing: %s"
+msgstr "Существующий объект пропущен: %s"
+
+msgid "Extracted: %s"
+msgstr "Извлечено: %s"
+
+msgid "Skipped unsupported special file: %s"
+msgstr "Неподдерживаемый специальный файл пропущен: %s"
+
+msgid "The destination already exists:\n%s\n\nReplace it?"
+msgstr "Место назначения уже существует:\n%s\n\nЗаменить?"
+
+msgid "Replace existing file?"
+msgstr "Заменить существующий файл?"
+
+msgid "%d%% completed"
+msgstr "Выполнено: %d%%"
+
+msgid "Compressing..."
+msgstr "Сжатие..."
+
+msgid "Running: %s"
+msgstr "Выполняется: %s"
+
+msgid "Required tool is not installed: tar"
+msgstr "Не установлена необходимая программа: tar"
+
+msgid "Required tool is not installed: zip"
+msgstr "Не установлена необходимая программа: zip"
+
+msgid "Required tool is not installed: 7z"
+msgstr "Не установлена необходимая программа: 7z"
+
+msgid "mksquashfs is not installed."
+msgstr "mksquashfs не установлен."
+
+msgid "Format not supported"
+msgstr "Формат не поддерживается"
+
+msgid "Completed successfully"
+msgstr "Успешно завершено"
+
+msgid "Completed successfully."
+msgstr "Успешно завершено."
+
+msgid "Success"
+msgstr "Успешно"
+
+msgid "Compression failed"
+msgstr "Ошибка сжатия"
+
+msgid "Error: %s"
+msgstr "Ошибка: %s"
+
+msgid "File created:\n%s"
+msgstr "Файл создан:\n%s"
+
+msgid "Unknown compression error."
+msgstr "Неизвестная ошибка сжатия."
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Please select a valid folder first."
+msgstr "Сначала выберите допустимую папку."
+
+msgid "Enter an output filename."
+msgstr "Введите имя выходного файла."
+
+msgid "The output filename must not contain a slash."
+msgstr "Имя выходного файла не должно содержать косую черту."
+
+msgid "Choose an output directory outside the source folder."
+msgstr "Выберите каталог вывода вне исходной папки."
+
+msgid "Starting compression..."
+msgstr "Запуск сжатия..."
+
+msgid "Source: %s"
+msgstr "Источник: %s"
+
+msgid "Output: %s"
+msgstr "Вывод: %s"
+
+msgid "Select folder to compress"
+msgstr "Выбрать папку для сжатия"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Select"
+msgstr "Выбрать"
+
+msgid "Select output directory"
+msgstr "Выбрать каталог вывода"
+
+msgid "Warning"
+msgstr "Предупреждение"
+
+msgid "Please drag only folders."
+msgstr "Перетаскивайте только папки."
+
+msgid "Operation in progress"
+msgstr "Операция выполняется"
+
+msgid "Wait for compression to finish before closing Flitz."
+msgstr "Дождитесь окончания сжатия, прежде чем закрывать Flitz."
+
+msgid "Flitz Compressor"
+msgstr "Архиватор Flitz"
+
+msgid "<b>Flitz Compressor</b>"
+msgstr "<b>Архиватор Flitz</b>"
+
+msgid "by josejp2424 (v6.0 C)"
+msgstr "josejp2424 (v6.0 C)"
+
+msgid "About"
+msgstr "О программе"
+
+msgid "Source"
+msgstr "Источник"
+
+msgid "Drag folder here or click Select"
+msgstr "Перетащите папку сюда или нажмите «Выбрать»"
+
+msgid "Format"
+msgstr "Формат"
+
+msgid "SquashFS Options"
+msgstr "Параметры SquashFS"
+
+msgid "Compression:"
+msgstr "Сжатие:"
+
+msgid "Block size:"
+msgstr "Размер блока:"
+
+msgid "Advanced XZ Options"
+msgstr "Дополнительные параметры XZ"
+
+msgid "BCJ Filter:"
+msgstr "Фильтр BCJ:"
+
+msgid "Output Directory"
+msgstr "Каталог вывода"
+
+msgid "Default: source folder"
+msgstr "По умолчанию: исходная папка"
+
+msgid "Output Filename"
+msgstr "Имя выходного файла"
+
+msgid "Ready"
+msgstr "Готово"
+
+msgid "Console"
+msgstr "Консоль"
+
+msgid "Compress"
+msgstr "Сжать"
+
+msgid "Extracting..."
+msgstr "Извлечение..."
+
+msgid "Required tool is not installed: %s"
+msgstr "Не установлена необходимая программа: %s"
+
+msgid "Cannot read PET package: %s"
+msgstr "Не удалось прочитать пакет PET: %s"
+
+msgid "PET package ended unexpectedly."
+msgstr "Пакет PET неожиданно закончился."
+
+msgid "Cannot write temporary PET archive: %s"
+msgstr "Не удалось записать временный архив PET: %s"
+
+msgid "Cannot inspect %s: %s"
+msgstr "Не удалось проверить %s: %s"
+
+msgid "Legacy PET without checksum footer; extracting directly."
+msgstr "Старый PET без контрольной суммы в конце; выполняется прямое извлечение."
+
+msgid "Cannot create temporary PET archive: %s"
+msgstr "Не удалось создать временный архив PET: %s"
+
+msgid "PET checksum does not match. The package may be damaged."
+msgstr "Контрольная сумма PET не совпадает. Пакет может быть повреждён."
+
+msgid "PET checksum verified."
+msgstr "Контрольная сумма PET проверена."
+
+msgid "Neither unzip nor 7z is installed."
+msgstr "Не установлены ни unzip, ни 7z."
+
+msgid "The DEB package has no data archive."
+msgstr "В пакете DEB отсутствует архив данных."
+
+msgid "Install dpkg-deb, or install ar and tar."
+msgstr "Установите dpkg-deb либо установите ar и tar."
+
+msgid "innoextract could not extract it; trying 7z."
+msgstr "innoextract не смог извлечь файл; попытка с 7z."
+
+msgid "Cannot make AppImage executable: %s"
+msgstr "Не удалось сделать AppImage исполняемым: %s"
+
+msgid "Cannot move decompressed file: %s"
+msgstr "Не удалось переместить распакованный файл: %s"
+
+msgid "Unknown extension; trying the universal 7z handler."
+msgstr "Неизвестное расширение; используется универсальный обработчик 7z."
+
+msgid "Recursively extracting: %s"
+msgstr "Рекурсивное извлечение: %s"
+
+msgid "Writing files..."
+msgstr "Запись файлов..."
+
+msgid "Extraction completed"
+msgstr "Извлечение завершено"
+
+msgid "Extraction completed successfully!"
+msgstr "Извлечение успешно завершено!"
+
+msgid "Extraction failed"
+msgstr "Ошибка извлечения"
+
+msgid "Detected format: %s"
+msgstr "Обнаруженный формат: %s"
+
+msgid "Searching for archives inside the extracted data..."
+msgstr "Поиск архивов в извлечённых данных..."
+
+msgid "Files were extracted to:\n%s"
+msgstr "Файлы извлечены в:\n%s"
+
+msgid "Unknown extraction error."
+msgstr "Неизвестная ошибка извлечения."
+
+msgid "Warning: temporary directory could not be removed: %s"
+msgstr "Предупреждение: не удалось удалить временный каталог: %s"
+
+msgid "Please select a valid archive first."
+msgstr "Сначала выберите допустимый архив."
+
+msgid "Starting extraction..."
+msgstr "Запуск извлечения..."
+
+msgid "File: %s"
+msgstr "Файл: %s"
+
+msgid "Select archive"
+msgstr "Выбрать архив"
+
+msgid "All supported archives"
+msgstr "Все поддерживаемые архивы"
+
+msgid "Wait for extraction to finish before closing Flitz."
+msgstr "Дождитесь окончания извлечения, прежде чем закрывать Flitz."
+
+msgid "Flitz Universal Extractor"
+msgstr "Универсальный распаковщик Flitz"
+
+msgid "<b>Flitz Universal Extractor</b>"
+msgstr "<b>Универсальный распаковщик Flitz</b>"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Drag file here or click Select"
+msgstr "Перетащите файл сюда или нажмите «Выбрать»"
+
+msgid "Output"
+msgstr "Вывод"
+
+msgid "Current"
+msgstr "Текущий"
+
+msgid "Options"
+msgstr "Параметры"
+
+msgid "Recursive"
+msgstr "Рекурсивно"
+
+msgid "Keep structure"
+msgstr "Сохранять структуру"
+
+msgid "Overwrite"
+msgstr "Перезаписывать"
+
+msgid "Extract"
+msgstr "Извлечь"
+
+msgid "Warning: missing optional tools: %s"
+msgstr "Предупреждение: отсутствуют дополнительные программы: %s"

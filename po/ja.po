@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flitz-toolkit 6.0\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Created by josejp2424 for Essora Linux."
+msgstr "Essora Linux 用に josejp2424 が作成しました。"
+
+msgid "Copyright © 2026 josejp2424"
+msgstr "Copyright © 2026 josejp2424"
+
+msgid "Skipped existing: %s"
+msgstr "既存の項目をスキップしました: %s"
+
+msgid "Extracted: %s"
+msgstr "展開しました: %s"
+
+msgid "Skipped unsupported special file: %s"
+msgstr "未対応の特殊ファイルをスキップしました: %s"
+
+msgid "The destination already exists:\n%s\n\nReplace it?"
+msgstr "出力先は既に存在します:\n%s\n\n置き換えますか？"
+
+msgid "Replace existing file?"
+msgstr "既存のファイルを置き換えますか？"
+
+msgid "%d%% completed"
+msgstr "%d%% 完了"
+
+msgid "Compressing..."
+msgstr "圧縮中..."
+
+msgid "Running: %s"
+msgstr "実行中: %s"
+
+msgid "Required tool is not installed: tar"
+msgstr "必要なツールがインストールされていません: tar"
+
+msgid "Required tool is not installed: zip"
+msgstr "必要なツールがインストールされていません: zip"
+
+msgid "Required tool is not installed: 7z"
+msgstr "必要なツールがインストールされていません: 7z"
+
+msgid "mksquashfs is not installed."
+msgstr "mksquashfs がインストールされていません。"
+
+msgid "Format not supported"
+msgstr "未対応の形式です"
+
+msgid "Completed successfully"
+msgstr "正常に完了しました"
+
+msgid "Completed successfully."
+msgstr "正常に完了しました。"
+
+msgid "Success"
+msgstr "成功"
+
+msgid "Compression failed"
+msgstr "圧縮に失敗しました"
+
+msgid "Error: %s"
+msgstr "エラー: %s"
+
+msgid "File created:\n%s"
+msgstr "ファイルを作成しました:\n%s"
+
+msgid "Unknown compression error."
+msgstr "不明な圧縮エラーです。"
+
+msgid "Error"
+msgstr "エラー"
+
+msgid "Please select a valid folder first."
+msgstr "最初に有効なフォルダーを選択してください。"
+
+msgid "Enter an output filename."
+msgstr "出力ファイル名を入力してください。"
+
+msgid "The output filename must not contain a slash."
+msgstr "出力ファイル名にスラッシュを含めることはできません。"
+
+msgid "Choose an output directory outside the source folder."
+msgstr "元フォルダーの外にある出力先フォルダーを選択してください。"
+
+msgid "Starting compression..."
+msgstr "圧縮を開始しています..."
+
+msgid "Source: %s"
+msgstr "元フォルダー: %s"
+
+msgid "Output: %s"
+msgstr "出力先: %s"
+
+msgid "Select folder to compress"
+msgstr "圧縮するフォルダーを選択"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Select"
+msgstr "選択"
+
+msgid "Select output directory"
+msgstr "出力先フォルダーを選択"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Please drag only folders."
+msgstr "フォルダーだけをドロップしてください。"
+
+msgid "Operation in progress"
+msgstr "処理中"
+
+msgid "Wait for compression to finish before closing Flitz."
+msgstr "圧縮が完了してから Flitz を閉じてください。"
+
+msgid "Flitz Compressor"
+msgstr "Flitz 圧縮ツール"
+
+msgid "<b>Flitz Compressor</b>"
+msgstr "<b>Flitz 圧縮ツール</b>"
+
+msgid "by josejp2424 (v6.0 C)"
+msgstr "josejp2424 作 (v6.0 C)"
+
+msgid "About"
+msgstr "このアプリについて"
+
+msgid "Source"
+msgstr "元フォルダー"
+
+msgid "Drag folder here or click Select"
+msgstr "ここにフォルダーをドロップするか「選択」をクリック"
+
+msgid "Format"
+msgstr "形式"
+
+msgid "SquashFS Options"
+msgstr "SquashFS オプション"
+
+msgid "Compression:"
+msgstr "圧縮方式:"
+
+msgid "Block size:"
+msgstr "ブロックサイズ:"
+
+msgid "Advanced XZ Options"
+msgstr "高度な XZ オプション"
+
+msgid "BCJ Filter:"
+msgstr "BCJ フィルター:"
+
+msgid "Output Directory"
+msgstr "出力先フォルダー"
+
+msgid "Default: source folder"
+msgstr "既定: 元フォルダー"
+
+msgid "Output Filename"
+msgstr "出力ファイル名"
+
+msgid "Ready"
+msgstr "準備完了"
+
+msgid "Console"
+msgstr "コンソール"
+
+msgid "Compress"
+msgstr "圧縮"
+
+msgid "Extracting..."
+msgstr "展開中..."
+
+msgid "Required tool is not installed: %s"
+msgstr "必要なツールがインストールされていません: %s"
+
+msgid "Cannot read PET package: %s"
+msgstr "PET パッケージを読み込めません: %s"
+
+msgid "PET package ended unexpectedly."
+msgstr "PET パッケージが予期せず終了しました。"
+
+msgid "Cannot write temporary PET archive: %s"
+msgstr "一時 PET アーカイブを書き込めません: %s"
+
+msgid "Cannot inspect %s: %s"
+msgstr "%s を確認できません: %s"
+
+msgid "Legacy PET without checksum footer; extracting directly."
+msgstr "チェックサム末尾のない旧形式 PET を直接展開します。"
+
+msgid "Cannot create temporary PET archive: %s"
+msgstr "一時 PET アーカイブを作成できません: %s"
+
+msgid "PET checksum does not match. The package may be damaged."
+msgstr "PET チェックサムが一致しません。パッケージが破損している可能性があります。"
+
+msgid "PET checksum verified."
+msgstr "PET チェックサムを確認しました。"
+
+msgid "Neither unzip nor 7z is installed."
+msgstr "unzip と 7z のどちらもインストールされていません。"
+
+msgid "The DEB package has no data archive."
+msgstr "DEB パッケージにデータアーカイブがありません。"
+
+msgid "Install dpkg-deb, or install ar and tar."
+msgstr "dpkg-deb、または ar と tar をインストールしてください。"
+
+msgid "innoextract could not extract it; trying 7z."
+msgstr "innoextract で展開できなかったため、7z を試します。"
+
+msgid "Cannot make AppImage executable: %s"
+msgstr "AppImage を実行可能にできません: %s"
+
+msgid "Cannot move decompressed file: %s"
+msgstr "展開したファイルを移動できません: %s"
+
+msgid "Unknown extension; trying the universal 7z handler."
+msgstr "不明な拡張子です。汎用 7z ハンドラーを試します。"
+
+msgid "Recursively extracting: %s"
+msgstr "再帰的に展開中: %s"
+
+msgid "Writing files..."
+msgstr "ファイルを書き込んでいます..."
+
+msgid "Extraction completed"
+msgstr "展開が完了しました"
+
+msgid "Extraction completed successfully!"
+msgstr "展開が正常に完了しました！"
+
+msgid "Extraction failed"
+msgstr "展開に失敗しました"
+
+msgid "Detected format: %s"
+msgstr "検出した形式: %s"
+
+msgid "Searching for archives inside the extracted data..."
+msgstr "展開したデータ内のアーカイブを検索しています..."
+
+msgid "Files were extracted to:\n%s"
+msgstr "ファイルの展開先:\n%s"
+
+msgid "Unknown extraction error."
+msgstr "不明な展開エラーです。"
+
+msgid "Warning: temporary directory could not be removed: %s"
+msgstr "警告: 一時フォルダーを削除できませんでした: %s"
+
+msgid "Please select a valid archive first."
+msgstr "最初に有効なアーカイブを選択してください。"
+
+msgid "Starting extraction..."
+msgstr "展開を開始しています..."
+
+msgid "File: %s"
+msgstr "ファイル: %s"
+
+msgid "Select archive"
+msgstr "アーカイブを選択"
+
+msgid "All supported archives"
+msgstr "対応しているすべてのアーカイブ"
+
+msgid "Wait for extraction to finish before closing Flitz."
+msgstr "展開が完了してから Flitz を閉じてください。"
+
+msgid "Flitz Universal Extractor"
+msgstr "Flitz 汎用展開ツール"
+
+msgid "<b>Flitz Universal Extractor</b>"
+msgstr "<b>Flitz 汎用展開ツール</b>"
+
+msgid "File"
+msgstr "ファイル"
+
+msgid "Drag file here or click Select"
+msgstr "ここにファイルをドロップするか「選択」をクリック"
+
+msgid "Output"
+msgstr "出力"
+
+msgid "Current"
+msgstr "現在"
+
+msgid "Options"
+msgstr "オプション"
+
+msgid "Recursive"
+msgstr "再帰的"
+
+msgid "Keep structure"
+msgstr "構造を維持"
+
+msgid "Overwrite"
+msgstr "上書き"
+
+msgid "Extract"
+msgstr "展開"
+
+msgid "Warning: missing optional tools: %s"
+msgstr "警告: オプションツールが不足しています: %s"

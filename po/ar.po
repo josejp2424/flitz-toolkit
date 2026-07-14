@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flitz-toolkit 6.0\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Created by josejp2424 for Essora Linux."
+msgstr "أنشأه josejp2424 لنظام Essora Linux."
+
+msgid "Copyright © 2026 josejp2424"
+msgstr "حقوق النشر © 2026 josejp2424"
+
+msgid "Skipped existing: %s"
+msgstr "تم تخطي العنصر الموجود: %s"
+
+msgid "Extracted: %s"
+msgstr "تم الاستخراج: %s"
+
+msgid "Skipped unsupported special file: %s"
+msgstr "تم تخطي الملف الخاص غير المدعوم: %s"
+
+msgid "The destination already exists:\n%s\n\nReplace it?"
+msgstr "الوجهة موجودة مسبقًا:\n%s\n\nهل تريد استبدالها؟"
+
+msgid "Replace existing file?"
+msgstr "هل تريد استبدال الملف الموجود؟"
+
+msgid "%d%% completed"
+msgstr "اكتمل %d%%"
+
+msgid "Compressing..."
+msgstr "جارٍ الضغط..."
+
+msgid "Running: %s"
+msgstr "جارٍ التنفيذ: %s"
+
+msgid "Required tool is not installed: tar"
+msgstr "الأداة المطلوبة غير مثبتة: tar"
+
+msgid "Required tool is not installed: zip"
+msgstr "الأداة المطلوبة غير مثبتة: zip"
+
+msgid "Required tool is not installed: 7z"
+msgstr "الأداة المطلوبة غير مثبتة: 7z"
+
+msgid "mksquashfs is not installed."
+msgstr "الأداة mksquashfs غير مثبتة."
+
+msgid "Format not supported"
+msgstr "الصيغة غير مدعومة"
+
+msgid "Completed successfully"
+msgstr "اكتملت العملية بنجاح"
+
+msgid "Completed successfully."
+msgstr "اكتملت العملية بنجاح."
+
+msgid "Success"
+msgstr "نجاح"
+
+msgid "Compression failed"
+msgstr "فشل الضغط"
+
+msgid "Error: %s"
+msgstr "خطأ: %s"
+
+msgid "File created:\n%s"
+msgstr "تم إنشاء الملف:\n%s"
+
+msgid "Unknown compression error."
+msgstr "خطأ ضغط غير معروف."
+
+msgid "Error"
+msgstr "خطأ"
+
+msgid "Please select a valid folder first."
+msgstr "يرجى اختيار مجلد صالح أولًا."
+
+msgid "Enter an output filename."
+msgstr "أدخل اسم ملف الإخراج."
+
+msgid "The output filename must not contain a slash."
+msgstr "يجب ألا يحتوي اسم ملف الإخراج على شرطة مائلة."
+
+msgid "Choose an output directory outside the source folder."
+msgstr "اختر مجلد إخراج خارج مجلد المصدر."
+
+msgid "Starting compression..."
+msgstr "جارٍ بدء الضغط..."
+
+msgid "Source: %s"
+msgstr "المصدر: %s"
+
+msgid "Output: %s"
+msgstr "الإخراج: %s"
+
+msgid "Select folder to compress"
+msgstr "اختيار المجلد المراد ضغطه"
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgid "Select"
+msgstr "اختيار"
+
+msgid "Select output directory"
+msgstr "اختيار مجلد الإخراج"
+
+msgid "Warning"
+msgstr "تحذير"
+
+msgid "Please drag only folders."
+msgstr "يرجى سحب المجلدات فقط."
+
+msgid "Operation in progress"
+msgstr "العملية قيد التنفيذ"
+
+msgid "Wait for compression to finish before closing Flitz."
+msgstr "انتظر انتهاء الضغط قبل إغلاق Flitz."
+
+msgid "Flitz Compressor"
+msgstr "ضاغط Flitz"
+
+msgid "<b>Flitz Compressor</b>"
+msgstr "<b>ضاغط Flitz</b>"
+
+msgid "by josejp2424 (v6.0 C)"
+msgstr "بواسطة josejp2424 ‏(v6.0 C)"
+
+msgid "About"
+msgstr "حول"
+
+msgid "Source"
+msgstr "المصدر"
+
+msgid "Drag folder here or click Select"
+msgstr "اسحب المجلد هنا أو انقر على اختيار"
+
+msgid "Format"
+msgstr "الصيغة"
+
+msgid "SquashFS Options"
+msgstr "خيارات SquashFS"
+
+msgid "Compression:"
+msgstr "الضغط:"
+
+msgid "Block size:"
+msgstr "حجم الكتلة:"
+
+msgid "Advanced XZ Options"
+msgstr "خيارات XZ المتقدمة"
+
+msgid "BCJ Filter:"
+msgstr "مرشح BCJ:"
+
+msgid "Output Directory"
+msgstr "مجلد الإخراج"
+
+msgid "Default: source folder"
+msgstr "الافتراضي: مجلد المصدر"
+
+msgid "Output Filename"
+msgstr "اسم ملف الإخراج"
+
+msgid "Ready"
+msgstr "جاهز"
+
+msgid "Console"
+msgstr "وحدة التحكم"
+
+msgid "Compress"
+msgstr "ضغط"
+
+msgid "Extracting..."
+msgstr "جارٍ الاستخراج..."
+
+msgid "Required tool is not installed: %s"
+msgstr "الأداة المطلوبة غير مثبتة: %s"
+
+msgid "Cannot read PET package: %s"
+msgstr "تعذرت قراءة حزمة PET: %s"
+
+msgid "PET package ended unexpectedly."
+msgstr "انتهت حزمة PET بشكل غير متوقع."
+
+msgid "Cannot write temporary PET archive: %s"
+msgstr "تعذرت كتابة أرشيف PET المؤقت: %s"
+
+msgid "Cannot inspect %s: %s"
+msgstr "تعذر فحص %s: %s"
+
+msgid "Legacy PET without checksum footer; extracting directly."
+msgstr "حزمة PET قديمة بلا تذييل تحقق؛ سيتم الاستخراج مباشرة."
+
+msgid "Cannot create temporary PET archive: %s"
+msgstr "تعذر إنشاء أرشيف PET المؤقت: %s"
+
+msgid "PET checksum does not match. The package may be damaged."
+msgstr "مجموع تحقق PET غير مطابق. قد تكون الحزمة تالفة."
+
+msgid "PET checksum verified."
+msgstr "تم التحقق من مجموع PET."
+
+msgid "Neither unzip nor 7z is installed."
+msgstr "لم يتم تثبيت unzip أو 7z."
+
+msgid "The DEB package has no data archive."
+msgstr "لا تحتوي حزمة DEB على أرشيف بيانات."
+
+msgid "Install dpkg-deb, or install ar and tar."
+msgstr "ثبّت dpkg-deb، أو ثبّت ar وtar."
+
+msgid "innoextract could not extract it; trying 7z."
+msgstr "تعذر على innoextract الاستخراج؛ ستتم المحاولة باستخدام 7z."
+
+msgid "Cannot make AppImage executable: %s"
+msgstr "تعذر جعل AppImage قابلًا للتنفيذ: %s"
+
+msgid "Cannot move decompressed file: %s"
+msgstr "تعذر نقل الملف الذي تم فك ضغطه: %s"
+
+msgid "Unknown extension; trying the universal 7z handler."
+msgstr "امتداد غير معروف؛ ستتم تجربة معالج 7z العام."
+
+msgid "Recursively extracting: %s"
+msgstr "استخراج متداخل: %s"
+
+msgid "Writing files..."
+msgstr "جارٍ كتابة الملفات..."
+
+msgid "Extraction completed"
+msgstr "اكتمل الاستخراج"
+
+msgid "Extraction completed successfully!"
+msgstr "اكتمل الاستخراج بنجاح!"
+
+msgid "Extraction failed"
+msgstr "فشل الاستخراج"
+
+msgid "Detected format: %s"
+msgstr "الصيغة المكتشفة: %s"
+
+msgid "Searching for archives inside the extracted data..."
+msgstr "جارٍ البحث عن أرشيفات داخل البيانات المستخرجة..."
+
+msgid "Files were extracted to:\n%s"
+msgstr "تم استخراج الملفات إلى:\n%s"
+
+msgid "Unknown extraction error."
+msgstr "خطأ استخراج غير معروف."
+
+msgid "Warning: temporary directory could not be removed: %s"
+msgstr "تحذير: تعذرت إزالة المجلد المؤقت: %s"
+
+msgid "Please select a valid archive first."
+msgstr "يرجى اختيار أرشيف صالح أولًا."
+
+msgid "Starting extraction..."
+msgstr "جارٍ بدء الاستخراج..."
+
+msgid "File: %s"
+msgstr "الملف: %s"
+
+msgid "Select archive"
+msgstr "اختيار أرشيف"
+
+msgid "All supported archives"
+msgstr "كل الأرشيفات المدعومة"
+
+msgid "Wait for extraction to finish before closing Flitz."
+msgstr "انتظر انتهاء الاستخراج قبل إغلاق Flitz."
+
+msgid "Flitz Universal Extractor"
+msgstr "مستخرج Flitz الشامل"
+
+msgid "<b>Flitz Universal Extractor</b>"
+msgstr "<b>مستخرج Flitz الشامل</b>"
+
+msgid "File"
+msgstr "الملف"
+
+msgid "Drag file here or click Select"
+msgstr "اسحب الملف هنا أو انقر على اختيار"
+
+msgid "Output"
+msgstr "الإخراج"
+
+msgid "Current"
+msgstr "الحالي"
+
+msgid "Options"
+msgstr "الخيارات"
+
+msgid "Recursive"
+msgstr "استخراج متداخل"
+
+msgid "Keep structure"
+msgstr "الاحتفاظ بالبنية"
+
+msgid "Overwrite"
+msgstr "الكتابة فوق الموجود"
+
+msgid "Extract"
+msgstr "استخراج"
+
+msgid "Warning: missing optional tools: %s"
+msgstr "تحذير: أدوات اختيارية مفقودة: %s"

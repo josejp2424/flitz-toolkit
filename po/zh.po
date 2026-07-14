@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flitz-toolkit 6.0\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Created by josejp2424 for Essora Linux."
+msgstr "由 josejp2424 为 Essora Linux 创建。"
+
+msgid "Copyright © 2026 josejp2424"
+msgstr "Copyright © 2026 josejp2424"
+
+msgid "Skipped existing: %s"
+msgstr "已跳过现有项目：%s"
+
+msgid "Extracted: %s"
+msgstr "已解压：%s"
+
+msgid "Skipped unsupported special file: %s"
+msgstr "已跳过不支持的特殊文件：%s"
+
+msgid "The destination already exists:\n%s\n\nReplace it?"
+msgstr "目标已存在：\n%s\n\n是否替换？"
+
+msgid "Replace existing file?"
+msgstr "是否替换现有文件？"
+
+msgid "%d%% completed"
+msgstr "已完成 %d%%"
+
+msgid "Compressing..."
+msgstr "正在压缩..."
+
+msgid "Running: %s"
+msgstr "正在执行：%s"
+
+msgid "Required tool is not installed: tar"
+msgstr "未安装所需工具：tar"
+
+msgid "Required tool is not installed: zip"
+msgstr "未安装所需工具：zip"
+
+msgid "Required tool is not installed: 7z"
+msgstr "未安装所需工具：7z"
+
+msgid "mksquashfs is not installed."
+msgstr "未安装 mksquashfs。"
+
+msgid "Format not supported"
+msgstr "不支持此格式"
+
+msgid "Completed successfully"
+msgstr "已成功完成"
+
+msgid "Completed successfully."
+msgstr "已成功完成。"
+
+msgid "Success"
+msgstr "成功"
+
+msgid "Compression failed"
+msgstr "压缩失败"
+
+msgid "Error: %s"
+msgstr "错误：%s"
+
+msgid "File created:\n%s"
+msgstr "已创建文件：\n%s"
+
+msgid "Unknown compression error."
+msgstr "未知压缩错误。"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Please select a valid folder first."
+msgstr "请先选择有效的文件夹。"
+
+msgid "Enter an output filename."
+msgstr "请输入输出文件名。"
+
+msgid "The output filename must not contain a slash."
+msgstr "输出文件名不能包含斜杠。"
+
+msgid "Choose an output directory outside the source folder."
+msgstr "请选择源文件夹之外的输出目录。"
+
+msgid "Starting compression..."
+msgstr "正在开始压缩..."
+
+msgid "Source: %s"
+msgstr "源文件夹：%s"
+
+msgid "Output: %s"
+msgstr "输出：%s"
+
+msgid "Select folder to compress"
+msgstr "选择要压缩的文件夹"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "Select output directory"
+msgstr "选择输出目录"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Please drag only folders."
+msgstr "请只拖入文件夹。"
+
+msgid "Operation in progress"
+msgstr "操作正在进行"
+
+msgid "Wait for compression to finish before closing Flitz."
+msgstr "请等待压缩完成后再关闭 Flitz。"
+
+msgid "Flitz Compressor"
+msgstr "Flitz 压缩工具"
+
+msgid "<b>Flitz Compressor</b>"
+msgstr "<b>Flitz 压缩工具</b>"
+
+msgid "by josejp2424 (v6.0 C)"
+msgstr "作者 josejp2424（v6.0 C）"
+
+msgid "About"
+msgstr "关于"
+
+msgid "Source"
+msgstr "源文件夹"
+
+msgid "Drag folder here or click Select"
+msgstr "将文件夹拖到这里或点击“选择”"
+
+msgid "Format"
+msgstr "格式"
+
+msgid "SquashFS Options"
+msgstr "SquashFS 选项"
+
+msgid "Compression:"
+msgstr "压缩方式："
+
+msgid "Block size:"
+msgstr "块大小："
+
+msgid "Advanced XZ Options"
+msgstr "高级 XZ 选项"
+
+msgid "BCJ Filter:"
+msgstr "BCJ 过滤器："
+
+msgid "Output Directory"
+msgstr "输出目录"
+
+msgid "Default: source folder"
+msgstr "默认：源文件夹"
+
+msgid "Output Filename"
+msgstr "输出文件名"
+
+msgid "Ready"
+msgstr "就绪"
+
+msgid "Console"
+msgstr "控制台"
+
+msgid "Compress"
+msgstr "压缩"
+
+msgid "Extracting..."
+msgstr "正在解压..."
+
+msgid "Required tool is not installed: %s"
+msgstr "未安装所需工具：%s"
+
+msgid "Cannot read PET package: %s"
+msgstr "无法读取 PET 软件包：%s"
+
+msgid "PET package ended unexpectedly."
+msgstr "PET 软件包意外结束。"
+
+msgid "Cannot write temporary PET archive: %s"
+msgstr "无法写入临时 PET 归档：%s"
+
+msgid "Cannot inspect %s: %s"
+msgstr "无法检查 %s：%s"
+
+msgid "Legacy PET without checksum footer; extracting directly."
+msgstr "旧版 PET 没有末尾校验和；将直接解压。"
+
+msgid "Cannot create temporary PET archive: %s"
+msgstr "无法创建临时 PET 归档：%s"
+
+msgid "PET checksum does not match. The package may be damaged."
+msgstr "PET 校验和不匹配，软件包可能已损坏。"
+
+msgid "PET checksum verified."
+msgstr "PET 校验和验证成功。"
+
+msgid "Neither unzip nor 7z is installed."
+msgstr "unzip 和 7z 均未安装。"
+
+msgid "The DEB package has no data archive."
+msgstr "DEB 软件包中没有数据归档。"
+
+msgid "Install dpkg-deb, or install ar and tar."
+msgstr "请安装 dpkg-deb，或安装 ar 和 tar。"
+
+msgid "innoextract could not extract it; trying 7z."
+msgstr "innoextract 无法解压，正在尝试 7z。"
+
+msgid "Cannot make AppImage executable: %s"
+msgstr "无法使 AppImage 可执行：%s"
+
+msgid "Cannot move decompressed file: %s"
+msgstr "无法移动已解压的文件：%s"
+
+msgid "Unknown extension; trying the universal 7z handler."
+msgstr "未知扩展名，正在尝试通用 7z 处理器。"
+
+msgid "Recursively extracting: %s"
+msgstr "正在递归解压：%s"
+
+msgid "Writing files..."
+msgstr "正在写入文件..."
+
+msgid "Extraction completed"
+msgstr "解压完成"
+
+msgid "Extraction completed successfully!"
+msgstr "解压成功完成！"
+
+msgid "Extraction failed"
+msgstr "解压失败"
+
+msgid "Detected format: %s"
+msgstr "检测到的格式：%s"
+
+msgid "Searching for archives inside the extracted data..."
+msgstr "正在已解压的数据中搜索归档..."
+
+msgid "Files were extracted to:\n%s"
+msgstr "文件已解压到：\n%s"
+
+msgid "Unknown extraction error."
+msgstr "未知解压错误。"
+
+msgid "Warning: temporary directory could not be removed: %s"
+msgstr "警告：无法删除临时目录：%s"
+
+msgid "Please select a valid archive first."
+msgstr "请先选择有效的归档。"
+
+msgid "Starting extraction..."
+msgstr "正在开始解压..."
+
+msgid "File: %s"
+msgstr "文件：%s"
+
+msgid "Select archive"
+msgstr "选择归档"
+
+msgid "All supported archives"
+msgstr "所有支持的归档"
+
+msgid "Wait for extraction to finish before closing Flitz."
+msgstr "请等待解压完成后再关闭 Flitz。"
+
+msgid "Flitz Universal Extractor"
+msgstr "Flitz 通用解压工具"
+
+msgid "<b>Flitz Universal Extractor</b>"
+msgstr "<b>Flitz 通用解压工具</b>"
+
+msgid "File"
+msgstr "文件"
+
+msgid "Drag file here or click Select"
+msgstr "将文件拖到这里或点击“选择”"
+
+msgid "Output"
+msgstr "输出"
+
+msgid "Current"
+msgstr "当前"
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Recursive"
+msgstr "递归"
+
+msgid "Keep structure"
+msgstr "保留目录结构"
+
+msgid "Overwrite"
+msgstr "覆盖"
+
+msgid "Extract"
+msgstr "解压"
+
+msgid "Warning: missing optional tools: %s"
+msgstr "警告：缺少可选工具：%s"

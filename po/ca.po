@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flitz-toolkit 6.0\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Created by josejp2424 for Essora Linux."
+msgstr "Creat per josejp2424 per a Essora Linux."
+
+msgid "Copyright © 2026 josejp2424"
+msgstr "Copyright © 2026 josejp2424"
+
+msgid "Skipped existing: %s"
+msgstr "S'ha omès perquè ja existeix: %s"
+
+msgid "Extracted: %s"
+msgstr "Extret: %s"
+
+msgid "Skipped unsupported special file: %s"
+msgstr "S'ha omès el fitxer especial no compatible: %s"
+
+msgid "The destination already exists:\n%s\n\nReplace it?"
+msgstr "El destí ja existeix:\n%s\n\nVoleu reemplaçar-lo?"
+
+msgid "Replace existing file?"
+msgstr "Voleu reemplaçar el fitxer existent?"
+
+msgid "%d%% completed"
+msgstr "%d%% completat"
+
+msgid "Compressing..."
+msgstr "Comprimint..."
+
+msgid "Running: %s"
+msgstr "Executant: %s"
+
+msgid "Required tool is not installed: tar"
+msgstr "No està instal·lada l’eina necessària: tar"
+
+msgid "Required tool is not installed: zip"
+msgstr "No està instal·lada l’eina necessària: zip"
+
+msgid "Required tool is not installed: 7z"
+msgstr "No està instal·lada l’eina necessària: 7z"
+
+msgid "mksquashfs is not installed."
+msgstr "mksquashfs no està instal·lat."
+
+msgid "Format not supported"
+msgstr "Format no compatible"
+
+msgid "Completed successfully"
+msgstr "Completat correctament"
+
+msgid "Completed successfully."
+msgstr "Completat correctament."
+
+msgid "Success"
+msgstr "Èxit"
+
+msgid "Compression failed"
+msgstr "Ha fallat la compressió"
+
+msgid "Error: %s"
+msgstr "Error: %s"
+
+msgid "File created:\n%s"
+msgstr "Fitxer creat:\n%s"
+
+msgid "Unknown compression error."
+msgstr "Error de compressió desconegut."
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Please select a valid folder first."
+msgstr "Seleccioneu primer una carpeta vàlida."
+
+msgid "Enter an output filename."
+msgstr "Introduïu un nom per al fitxer de sortida."
+
+msgid "The output filename must not contain a slash."
+msgstr "El nom del fitxer de sortida no pot contenir cap barra."
+
+msgid "Choose an output directory outside the source folder."
+msgstr "Trieu un directori de sortida fora de la carpeta d’origen."
+
+msgid "Starting compression..."
+msgstr "Iniciant la compressió..."
+
+msgid "Source: %s"
+msgstr "Origen: %s"
+
+msgid "Output: %s"
+msgstr "Sortida: %s"
+
+msgid "Select folder to compress"
+msgstr "Selecciona la carpeta que voleu comprimir"
+
+msgid "Cancel"
+msgstr "Cancel·la"
+
+msgid "Select"
+msgstr "Selecciona"
+
+msgid "Select output directory"
+msgstr "Selecciona el directori de sortida"
+
+msgid "Warning"
+msgstr "Avís"
+
+msgid "Please drag only folders."
+msgstr "Arrossegueu només carpetes."
+
+msgid "Operation in progress"
+msgstr "Operació en curs"
+
+msgid "Wait for compression to finish before closing Flitz."
+msgstr "Espereu que acabi la compressió abans de tancar Flitz."
+
+msgid "Flitz Compressor"
+msgstr "Compressor Flitz"
+
+msgid "<b>Flitz Compressor</b>"
+msgstr "<b>Compressor Flitz</b>"
+
+msgid "by josejp2424 (v6.0 C)"
+msgstr "per josejp2424 (v6.0 C)"
+
+msgid "About"
+msgstr "Quant a"
+
+msgid "Source"
+msgstr "Origen"
+
+msgid "Drag folder here or click Select"
+msgstr "Arrossegueu la carpeta aquí o feu clic a Selecciona"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "SquashFS Options"
+msgstr "Opcions de SquashFS"
+
+msgid "Compression:"
+msgstr "Compressió:"
+
+msgid "Block size:"
+msgstr "Mida del bloc:"
+
+msgid "Advanced XZ Options"
+msgstr "Opcions avançades de XZ"
+
+msgid "BCJ Filter:"
+msgstr "Filtre BCJ:"
+
+msgid "Output Directory"
+msgstr "Directori de sortida"
+
+msgid "Default: source folder"
+msgstr "Predeterminat: carpeta d’origen"
+
+msgid "Output Filename"
+msgstr "Nom del fitxer de sortida"
+
+msgid "Ready"
+msgstr "Preparat"
+
+msgid "Console"
+msgstr "Consola"
+
+msgid "Compress"
+msgstr "Comprimeix"
+
+msgid "Extracting..."
+msgstr "Extraient..."
+
+msgid "Required tool is not installed: %s"
+msgstr "No està instal·lada l’eina necessària: %s"
+
+msgid "Cannot read PET package: %s"
+msgstr "No es pot llegir el paquet PET: %s"
+
+msgid "PET package ended unexpectedly."
+msgstr "El paquet PET ha finalitzat inesperadament."
+
+msgid "Cannot write temporary PET archive: %s"
+msgstr "No es pot escriure l’arxiu PET temporal: %s"
+
+msgid "Cannot inspect %s: %s"
+msgstr "No es pot examinar %s: %s"
+
+msgid "Legacy PET without checksum footer; extracting directly."
+msgstr "PET antic sense suma de verificació final; s’extraurà directament."
+
+msgid "Cannot create temporary PET archive: %s"
+msgstr "No es pot crear l’arxiu PET temporal: %s"
+
+msgid "PET checksum does not match. The package may be damaged."
+msgstr "La suma de verificació del PET no coincideix. El paquet pot estar malmès."
+
+msgid "PET checksum verified."
+msgstr "Suma de verificació PET comprovada."
+
+msgid "Neither unzip nor 7z is installed."
+msgstr "No estan instal·lats ni unzip ni 7z."
+
+msgid "The DEB package has no data archive."
+msgstr "El paquet DEB no conté cap arxiu de dades."
+
+msgid "Install dpkg-deb, or install ar and tar."
+msgstr "Instal·leu dpkg-deb, o bé ar i tar."
+
+msgid "innoextract could not extract it; trying 7z."
+msgstr "innoextract no ho ha pogut extreure; es provarà amb 7z."
+
+msgid "Cannot make AppImage executable: %s"
+msgstr "No es pot fer executable l’AppImage: %s"
+
+msgid "Cannot move decompressed file: %s"
+msgstr "No es pot moure el fitxer descomprimit: %s"
+
+msgid "Unknown extension; trying the universal 7z handler."
+msgstr "Extensió desconeguda; es provarà el gestor universal de 7z."
+
+msgid "Recursively extracting: %s"
+msgstr "Extracció recursiva: %s"
+
+msgid "Writing files..."
+msgstr "Escrivint fitxers..."
+
+msgid "Extraction completed"
+msgstr "Extracció completada"
+
+msgid "Extraction completed successfully!"
+msgstr "Extracció completada correctament!"
+
+msgid "Extraction failed"
+msgstr "Ha fallat l’extracció"
+
+msgid "Detected format: %s"
+msgstr "Format detectat: %s"
+
+msgid "Searching for archives inside the extracted data..."
+msgstr "Cercant arxius dins de les dades extretes..."
+
+msgid "Files were extracted to:\n%s"
+msgstr "Els fitxers s’han extret a:\n%s"
+
+msgid "Unknown extraction error."
+msgstr "Error d’extracció desconegut."
+
+msgid "Warning: temporary directory could not be removed: %s"
+msgstr "Avís: no s’ha pogut eliminar el directori temporal: %s"
+
+msgid "Please select a valid archive first."
+msgstr "Seleccioneu primer un arxiu vàlid."
+
+msgid "Starting extraction..."
+msgstr "Iniciant l’extracció..."
+
+msgid "File: %s"
+msgstr "Fitxer: %s"
+
+msgid "Select archive"
+msgstr "Selecciona un arxiu"
+
+msgid "All supported archives"
+msgstr "Tots els arxius compatibles"
+
+msgid "Wait for extraction to finish before closing Flitz."
+msgstr "Espereu que acabi l’extracció abans de tancar Flitz."
+
+msgid "Flitz Universal Extractor"
+msgstr "Extractor universal Flitz"
+
+msgid "<b>Flitz Universal Extractor</b>"
+msgstr "<b>Extractor universal Flitz</b>"
+
+msgid "File"
+msgstr "Fitxer"
+
+msgid "Drag file here or click Select"
+msgstr "Arrossegueu el fitxer aquí o feu clic a Selecciona"
+
+msgid "Output"
+msgstr "Sortida"
+
+msgid "Current"
+msgstr "Actual"
+
+msgid "Options"
+msgstr "Opcions"
+
+msgid "Recursive"
+msgstr "Recursiu"
+
+msgid "Keep structure"
+msgstr "Mantén l’estructura"
+
+msgid "Overwrite"
+msgstr "Sobreescriu"
+
+msgid "Extract"
+msgstr "Extreu"
+
+msgid "Warning: missing optional tools: %s"
+msgstr "Avís: falten eines opcionals: %s"

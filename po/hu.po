@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flitz-toolkit 6.0\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Created by josejp2424 for Essora Linux."
+msgstr "Készítette josejp2424 az Essora Linux számára."
+
+msgid "Copyright © 2026 josejp2424"
+msgstr "Copyright © 2026 josejp2424"
+
+msgid "Skipped existing: %s"
+msgstr "A már létező elem kihagyva: %s"
+
+msgid "Extracted: %s"
+msgstr "Kicsomagolva: %s"
+
+msgid "Skipped unsupported special file: %s"
+msgstr "A nem támogatott speciális fájl kihagyva: %s"
+
+msgid "The destination already exists:\n%s\n\nReplace it?"
+msgstr "A cél már létezik:\n%s\n\nLecseréli?"
+
+msgid "Replace existing file?"
+msgstr "Lecseréli a meglévő fájlt?"
+
+msgid "%d%% completed"
+msgstr "%d%% kész"
+
+msgid "Compressing..."
+msgstr "Tömörítés..."
+
+msgid "Running: %s"
+msgstr "Futtatás: %s"
+
+msgid "Required tool is not installed: tar"
+msgstr "A szükséges eszköz nincs telepítve: tar"
+
+msgid "Required tool is not installed: zip"
+msgstr "A szükséges eszköz nincs telepítve: zip"
+
+msgid "Required tool is not installed: 7z"
+msgstr "A szükséges eszköz nincs telepítve: 7z"
+
+msgid "mksquashfs is not installed."
+msgstr "Az mksquashfs nincs telepítve."
+
+msgid "Format not supported"
+msgstr "Nem támogatott formátum"
+
+msgid "Completed successfully"
+msgstr "Sikeresen befejezve"
+
+msgid "Completed successfully."
+msgstr "Sikeresen befejezve."
+
+msgid "Success"
+msgstr "Siker"
+
+msgid "Compression failed"
+msgstr "A tömörítés sikertelen"
+
+msgid "Error: %s"
+msgstr "Hiba: %s"
+
+msgid "File created:\n%s"
+msgstr "A fájl elkészült:\n%s"
+
+msgid "Unknown compression error."
+msgstr "Ismeretlen tömörítési hiba."
+
+msgid "Error"
+msgstr "Hiba"
+
+msgid "Please select a valid folder first."
+msgstr "Először válasszon érvényes mappát."
+
+msgid "Enter an output filename."
+msgstr "Adja meg a kimeneti fájl nevét."
+
+msgid "The output filename must not contain a slash."
+msgstr "A kimeneti fájlnév nem tartalmazhat perjelet."
+
+msgid "Choose an output directory outside the source folder."
+msgstr "A forrásmappán kívüli kimeneti könyvtárat válasszon."
+
+msgid "Starting compression..."
+msgstr "Tömörítés indítása..."
+
+msgid "Source: %s"
+msgstr "Forrás: %s"
+
+msgid "Output: %s"
+msgstr "Kimenet: %s"
+
+msgid "Select folder to compress"
+msgstr "Tömörítendő mappa kiválasztása"
+
+msgid "Cancel"
+msgstr "Mégse"
+
+msgid "Select"
+msgstr "Kiválasztás"
+
+msgid "Select output directory"
+msgstr "Kimeneti könyvtár kiválasztása"
+
+msgid "Warning"
+msgstr "Figyelmeztetés"
+
+msgid "Please drag only folders."
+msgstr "Csak mappákat húzzon ide."
+
+msgid "Operation in progress"
+msgstr "Művelet folyamatban"
+
+msgid "Wait for compression to finish before closing Flitz."
+msgstr "A Flitz bezárása előtt várja meg a tömörítés végét."
+
+msgid "Flitz Compressor"
+msgstr "Flitz tömörítő"
+
+msgid "<b>Flitz Compressor</b>"
+msgstr "<b>Flitz tömörítő</b>"
+
+msgid "by josejp2424 (v6.0 C)"
+msgstr "josejp2424 (v6.0 C)"
+
+msgid "About"
+msgstr "Névjegy"
+
+msgid "Source"
+msgstr "Forrás"
+
+msgid "Drag folder here or click Select"
+msgstr "Húzza ide a mappát, vagy kattintson a Kiválasztás gombra"
+
+msgid "Format"
+msgstr "Formátum"
+
+msgid "SquashFS Options"
+msgstr "SquashFS beállítások"
+
+msgid "Compression:"
+msgstr "Tömörítés:"
+
+msgid "Block size:"
+msgstr "Blokkméret:"
+
+msgid "Advanced XZ Options"
+msgstr "Speciális XZ-beállítások"
+
+msgid "BCJ Filter:"
+msgstr "BCJ-szűrő:"
+
+msgid "Output Directory"
+msgstr "Kimeneti könyvtár"
+
+msgid "Default: source folder"
+msgstr "Alapértelmezett: forrásmappa"
+
+msgid "Output Filename"
+msgstr "Kimeneti fájlnév"
+
+msgid "Ready"
+msgstr "Kész"
+
+msgid "Console"
+msgstr "Konzol"
+
+msgid "Compress"
+msgstr "Tömörítés"
+
+msgid "Extracting..."
+msgstr "Kicsomagolás..."
+
+msgid "Required tool is not installed: %s"
+msgstr "A szükséges eszköz nincs telepítve: %s"
+
+msgid "Cannot read PET package: %s"
+msgstr "A PET csomag nem olvasható: %s"
+
+msgid "PET package ended unexpectedly."
+msgstr "A PET csomag váratlanul véget ért."
+
+msgid "Cannot write temporary PET archive: %s"
+msgstr "Az ideiglenes PET archívum nem írható: %s"
+
+msgid "Cannot inspect %s: %s"
+msgstr "%s nem vizsgálható meg: %s"
+
+msgid "Legacy PET without checksum footer; extracting directly."
+msgstr "Régi PET ellenőrzőösszeg nélkül; közvetlen kicsomagolás."
+
+msgid "Cannot create temporary PET archive: %s"
+msgstr "Az ideiglenes PET archívum nem hozható létre: %s"
+
+msgid "PET checksum does not match. The package may be damaged."
+msgstr "A PET ellenőrzőösszege nem egyezik. A csomag sérült lehet."
+
+msgid "PET checksum verified."
+msgstr "A PET ellenőrzőösszeg rendben."
+
+msgid "Neither unzip nor 7z is installed."
+msgstr "Sem az unzip, sem a 7z nincs telepítve."
+
+msgid "The DEB package has no data archive."
+msgstr "A DEB csomag nem tartalmaz adatarchívumot."
+
+msgid "Install dpkg-deb, or install ar and tar."
+msgstr "Telepítse a dpkg-deb csomagot, vagy az ar és tar eszközöket."
+
+msgid "innoextract could not extract it; trying 7z."
+msgstr "Az innoextract nem tudta kicsomagolni; próbálkozás 7z-vel."
+
+msgid "Cannot make AppImage executable: %s"
+msgstr "Az AppImage nem tehető végrehajthatóvá: %s"
+
+msgid "Cannot move decompressed file: %s"
+msgstr "A kicsomagolt fájl nem mozgatható: %s"
+
+msgid "Unknown extension; trying the universal 7z handler."
+msgstr "Ismeretlen kiterjesztés; próbálkozás az általános 7z-kezelővel."
+
+msgid "Recursively extracting: %s"
+msgstr "Rekurzív kicsomagolás: %s"
+
+msgid "Writing files..."
+msgstr "Fájlok írása..."
+
+msgid "Extraction completed"
+msgstr "Kicsomagolás befejezve"
+
+msgid "Extraction completed successfully!"
+msgstr "A kicsomagolás sikeresen befejeződött!"
+
+msgid "Extraction failed"
+msgstr "A kicsomagolás sikertelen"
+
+msgid "Detected format: %s"
+msgstr "Felismert formátum: %s"
+
+msgid "Searching for archives inside the extracted data..."
+msgstr "Archívumok keresése a kicsomagolt adatokban..."
+
+msgid "Files were extracted to:\n%s"
+msgstr "A fájlok ide lettek kicsomagolva:\n%s"
+
+msgid "Unknown extraction error."
+msgstr "Ismeretlen kicsomagolási hiba."
+
+msgid "Warning: temporary directory could not be removed: %s"
+msgstr "Figyelmeztetés: az ideiglenes könyvtár nem távolítható el: %s"
+
+msgid "Please select a valid archive first."
+msgstr "Először válasszon érvényes archívumot."
+
+msgid "Starting extraction..."
+msgstr "Kicsomagolás indítása..."
+
+msgid "File: %s"
+msgstr "Fájl: %s"
+
+msgid "Select archive"
+msgstr "Archívum kiválasztása"
+
+msgid "All supported archives"
+msgstr "Minden támogatott archívum"
+
+msgid "Wait for extraction to finish before closing Flitz."
+msgstr "A Flitz bezárása előtt várja meg a kicsomagolás végét."
+
+msgid "Flitz Universal Extractor"
+msgstr "Flitz univerzális kicsomagoló"
+
+msgid "<b>Flitz Universal Extractor</b>"
+msgstr "<b>Flitz univerzális kicsomagoló</b>"
+
+msgid "File"
+msgstr "Fájl"
+
+msgid "Drag file here or click Select"
+msgstr "Húzza ide a fájlt, vagy kattintson a Kiválasztás gombra"
+
+msgid "Output"
+msgstr "Kimenet"
+
+msgid "Current"
+msgstr "Jelenlegi"
+
+msgid "Options"
+msgstr "Beállítások"
+
+msgid "Recursive"
+msgstr "Rekurzív"
+
+msgid "Keep structure"
+msgstr "Könyvtárszerkezet megtartása"
+
+msgid "Overwrite"
+msgstr "Felülírás"
+
+msgid "Extract"
+msgstr "Kicsomagolás"
+
+msgid "Warning: missing optional tools: %s"
+msgstr "Figyelmeztetés: hiányzó választható eszközök: %s"
