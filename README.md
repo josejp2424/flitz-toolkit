@@ -8,9 +8,9 @@
   <strong>A lightweight archive compressor and extractor written in C and GTK3.</strong>
 </p>
 
-<p align="center">
-  Created for Essora Linux, with support for Puppy Linux and Debian/Devuan-based systems.
-</p>
+
+Created for Essora Linux, with support for Puppy Linux and Debian/Devuan-based systems.
+
 
 
 
