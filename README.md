@@ -13,7 +13,6 @@
 </p>
 
 
-Flitz Toolkit replaces the original Python/Tk applications with native GTK3 binaries while preserving the traditional installation layout under `/usr/local/flitz`.
 
 The project provides two independent applications:
 
